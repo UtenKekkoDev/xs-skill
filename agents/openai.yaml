@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文短篇小说写作"
+  short_description: "创作与精修快节奏中文短篇小说，强化人物逻辑、情绪反击和章节悬念"
+  default_prompt: "请使用 $short-fiction-writing，根据我提供的故事架构或原稿创作或修订小说，并核对人物动机、情节逻辑、伏笔回收与目标字数。"
